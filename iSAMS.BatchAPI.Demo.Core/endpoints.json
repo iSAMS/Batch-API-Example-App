@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Id": 1,
+    "DisplayName": "XML",
+    "Handler": "xml.ashx"
+  },
+  {
+    "Id": 2,
+    "DisplayName": "Staff Photos",
+    "Handler": "staffphotos.ashx"
+  },
+  {
+    "Id": 3,
+    "DisplayName": "Student Photos",
+    "Handler": "photos.ashx"
+  }
+]
